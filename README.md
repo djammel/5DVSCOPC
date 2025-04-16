@@ -262,12 +262,6 @@ kubectl apply -f stripe-app.yaml
 
 ---
 
-##  Aperçu Infisical
-
-![Infisical Web Site](Infisical.png)
-
----
-
 <p align="center">
   <a href="#top">⬆️ Back to top</a>
 </p>
