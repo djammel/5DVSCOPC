@@ -237,8 +237,6 @@ helm upgrade --install infisical infisical-helm-charts/infisical-standalone --va
 
 ### 4. Déploiement de l'opérateur Infisical
 
-### 4. Déploiement de l'opérateur Infisical
-
 ```bash
 helm install --generate-name infisical-helm-charts/secrets-operator
 ```
