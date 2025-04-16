@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: infisical-secrets
+type: Opaque
+stringData:
+  AUTH_SECRET: cOBsi8Dv24Q7MltCGVHBoRCoQOn9MfoZFNoCqOwyCpw=
+  ENCRYPTION_KEY: a347bee3c7881c249bce748c497dd9d6
+  SITE_URL: http://192.168.49.2
+  HTTPS_ENABLED: "false"
+  TELEMETRY_ENABLED: "false"
